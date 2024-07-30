@@ -35,7 +35,7 @@
                         </div>
                         <div class="right">
                             <ul class="flexitem main-links">
-                                <li><a href="#">Sign Up</a></li>
+                                <li><a href="/signup">Sign Up</a></li>
                                 <li><a href="#">My Account</a></li>
                                 <li><a href="#">Order Tracking</a></li>
                                 <li><a href="#">USD <span class="icon-small"><i class="ri-arrow-down-s-line"></i></span></a>
