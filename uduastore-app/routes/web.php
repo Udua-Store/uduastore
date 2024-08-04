@@ -20,3 +20,8 @@ Route::get('/', function () {
 Route::get('/signup', function () {
     return view('front.signup');
 });
+
+Route::get('/login', function () {
+    return view('front.login');
+});
+
