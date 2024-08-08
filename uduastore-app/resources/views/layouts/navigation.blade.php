@@ -1,27 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ecommerce Website</title>
-    <link rel="stylesheet" href="{{ asset('new/css/style.css') }}">
-    <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css">
-</head>
-<body>
-    <div id="page" class="site page-home">
-        <aside class="site-off desktop-hide">
-            <div class="off-canvas">
-                <div class="canvas-head flexitem">
-                    <div class="logo"><a href="/"><span class="circle"></span>.Store</a></div>
-                    <a href="#" class="t-close flexcenter"><i class="ri-close-line"></i></a>
-                </div>
-                <div class="departments"></div>
-                <nav></nav>
-                <div class="thetop-nav"></div>
-            </div>
-        </aside>
+
+
         <header>
             <div class="header-top mobile-hide">
                 <div class="container">
@@ -36,7 +14,7 @@
                         <div class="right">
                             <ul class="flexitem main-links">
                                 <li><a href="/register">Register</a></li>
-                                <li><a href="dashboard">My Account</a></li>
+                                <li><a href="/profile">My Account</a></li>
                                 <li><a href="#">Order Tracking</a></li>
                                 <li><a href="#">USD <span class="icon-small"><i class="ri-arrow-down-s-line"></i></span></a>
                                     <ul>
